@@ -2,6 +2,7 @@ h1 {
   background-color: #6495ED;
   font: Segoe;
 }
+
 container {
   width: 70%;
   margin: 20px;
@@ -9,6 +10,7 @@ container {
   font-color: white;
   align-content: left;
 }
-#style {
+
+#ending {
   font: 45px;
 }
