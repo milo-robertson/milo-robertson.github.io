@@ -7,10 +7,10 @@ p {
   width: 70%;
   margin: 20px;
   background-color: black;
-  font-color: white;
+  color: white;
   align-content: center;
 }
 
-ending {
+footer {
   font: 55px;
 }
