@@ -3,14 +3,14 @@ h1 {
   font: Segoe;
 }
 
-container {
+p {
   width: 70%;
   margin: 20px;
   background-color: black;
   font-color: white;
-  align-content: left;
+  align-content: center;
 }
 
-#ending {
-  font: 45px;
+ending {
+  font: 55px;
 }
